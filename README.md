@@ -40,3 +40,4 @@ Machine Learning Researcher and Full Stack Developer
 <a href="http://www.github.com/seank842"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seank842&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/seank842"><img src="https://activity-graph.herokuapp.com/graph?username=seank842&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
