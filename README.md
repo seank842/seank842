@@ -1,4 +1,4 @@
-Hi 👋 My name is Sean Knox
+Hi 👋 My name is Sean Bhatnagar-Knox
 ==========================
 
 Machine Learning Researcher and Full Stack Developer
